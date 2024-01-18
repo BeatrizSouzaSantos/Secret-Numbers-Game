@@ -21,11 +21,5 @@ while (selectedNumber != numeroSecreto){
 }
 
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
-alert(`Parabéns! Você descobriu o número secreto ${numeroSecreto} com ${palavraTentativa} tentativas`);
-
-// if (tentativas > 1){
-//     alert(`Parabéns! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas`);
-// } else {
-//     alert(`Parabéns! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa`);
-// }
+alert(`Parabéns! Você descobriu o número secreto  ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`);
 
