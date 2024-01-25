@@ -8,3 +8,16 @@ O projeto é bem dinâmico, consiste em o usuário adivinhar o número até um d
  ## Interface 💻 ###
  
  <img width="1278" alt="Captura de Tela 2024-01-25 às 18 29 41" src="https://github.com/BeatrizSouzaSantos/Secret-Numbers-Game/assets/80977502/811d577a-77cf-4568-a948-400258a46a27">
+
+ ### ✅ Linguagens Utilizadas ###
+
+🔹 HTML
+
+🔹 JavaScript 
+
+🔹 CSS
+
+### ⚙ Como Rodar o Projeto ⚙
+
+Para executar o usuario precisa, basta instalar em seu desktop o Visual Studio Code.
+Link para instalação: https://code.visualstudio.com/download
